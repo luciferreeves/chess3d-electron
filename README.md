@@ -17,14 +17,14 @@ then start the package
 
 ## How to make desktop apps
 
-For Mac: 
+**For Mac:** 
 
 `npm run package-mac`
 
-For Windows
+**For Windows:**
 
 `npm run package-win`
 
-For Linux
+**For Linux:**
 
 `npm run package-linux`
