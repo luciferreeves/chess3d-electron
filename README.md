@@ -14,3 +14,17 @@ Clone the repository and run
 then start the package
 
 `npm start`
+
+## How to make desktop apps
+
+For Mac: 
+
+`npm run package-mac`
+
+For Windows
+
+`npm run package-win`
+
+For Linux
+
+`npm run package-linux`
